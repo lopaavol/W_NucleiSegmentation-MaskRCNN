@@ -1,2 +1,2 @@
-# W_Template
-Workflow template repository
+# W_NucleiSegmentation-MaskRCNN
+BIAFLOWS Mask R-CNN workflow.
